@@ -7,12 +7,18 @@ The Resume Analyzer project is designed to assist job seekers in optimizing thei
 
 ## Features
 Resume Analysis: The project leverages the OpenAI API to analyze the content of the provided resume.
+
 Strengths and Weaknesses: The system identifies the strengths and weaknesses in the resume, including content structure, keywords, and overall presentation.
+
 Streamlit Application: The project offers a web-based user interface powered by Streamlit, ensuring ease of use for users.
+
 Feedback Report: Users receive a detailed report highlighting the resume's strong points and areas for improvement.
 
 ## Usage
 Access the Streamlit application by running it as described in the installation section.
+
 Upload your resume to the application.
+
 Click the "Analyze" button to initiate the analysis.
+
 Review the strengths and weaknesses feedback provided by the application.
